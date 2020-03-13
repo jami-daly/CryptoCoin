@@ -1,3 +1,6 @@
+# Project Description
+Create a DDapp crypto coin on the Rinkby Test Network.
+
 # CryptoCoin
 Etherium Star Test
 Truffle v5.1.12 (core: 5.1.12)
